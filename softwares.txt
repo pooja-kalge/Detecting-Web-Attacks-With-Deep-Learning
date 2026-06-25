@@ -1,0 +1,2 @@
+PYTHON install-http://www.mediafire.com/file/kipz3ay6alpww0r/python-3.7.0-amd64.exe/file
+MYSQL install-http://www.mediafire.com/file/t0l3btf19qn1uce/Mysql_for_python.msi/file
